@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309244757851",
+    "project_id": "fir-bootcamp-e00dd",
+    "storage_bucket": "fir-bootcamp-e00dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309244757851:android:f661b8e3c04e80ba15fc7e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309244757851-m20mpbk28j3ml3uhu9897574ma7qskgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMFCOX_s27WVlCn_BSxcAxfAvvoMJSeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309244757851-m20mpbk28j3ml3uhu9897574ma7qskgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
