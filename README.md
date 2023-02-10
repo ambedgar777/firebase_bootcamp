@@ -1,16 +1,19 @@
 # firebase_bootcamp
 
-A new Flutter project.
+A new Flutter project
 
-## Getting Started
+In this project following topics are included:
 
-This project is a starting point for a Flutter application.
+1: Login and Logout
 
-A few resources to get you started if this is your first Flutter project:
+2: Sign up Users
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3: Reset Password
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4: CRUD operations
+
+5: Sorting Data
+
+Following is the given screenshot of the app!
+
+![Green Gradient Application Showcase Presentation](https://user-images.githubusercontent.com/49684285/218028656-0126ba04-9858-4b42-95e1-4be06d9c20c7.png)
